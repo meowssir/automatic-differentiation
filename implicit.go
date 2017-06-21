@@ -22,4 +22,9 @@ func main() {
     b := []interface{}{}
     // define each operators properties.
     ...
+
+    // define the chain rule for a given term.
+    // let j be an idx who's element is y which is has a composite function at j+n.
+    // based on prefined rules of the composite function, compute its derivative.
+    // the expression becomes j*j+n assuming we've placed its derivative in j+n.
 }
